@@ -1,5 +1,3 @@
-Last login: Wed Apr 15 13:49:48 on ttys000
-sfoulk@Sarah-Foulk's-MacBook-Air ~ % 
 import { motion } from "framer-motion";
 
 export default function Home() {
